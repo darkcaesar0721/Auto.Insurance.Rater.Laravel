@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="430px" height="82px" viewBox="0 0 430 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Infinity_Insurance 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.0809090909 0.25 88.1356212 0.25 88.1356212 82 0.0809090909 82"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Infinity_Insurance-2">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#0A0B09" mask="url(#mask-2)" points="0.0809090909 82 88.1356212 82 88.1356212 0.25 0.0809090909 0.25"></polygon>
+            </g>
+            <polygon id="Fill-4" fill="#EC952D" points="104 74 111 74 111 10 104 10"></polygon>
+            <polyline id="Fill-5" fill="#EC952D" points="128 73.5644345 128 11.4599691 134.073033 9 165.270931 60.4472671 165.270931 10.4355655 173 10.4355655 173 72.5400309 167.203198 75 135.177955 23.7578137 135.177955 73.7705157 128 73.5644345"></polyline>
+            <polyline id="Fill-6" fill="#EC952D" points="255 73.5644345 255 11.4599691 261.072851 9 292.268467 60.4472671 292.268467 10.4355655 300 10.4355655 300 72.5400309 294.202024 75 262.176393 23.7578137 262.176393 73.7705157 255 73.5644345"></polyline>
+            <polyline id="Fill-7" fill="#EC952D" points="219 16.6061656 219 10 188 10 188 74 194.91951 74 194.91951 45.0975218 217.339696 45.0975218 217.339696 38.28378 194.91951 38.28378 194.91951 16.6061656 219 16.6061656"></polyline>
+            <polygon id="Fill-8" fill="#EC952D" points="231 74 238 74 238 10 231 10"></polygon>
+            <polygon id="Fill-9" fill="#EC952D" points="317 74 324 74 324 10 317 10"></polygon>
+            <polyline id="Fill-10" fill="#EC952D" points="376 10 334 10 334 16.3790078 351.019459 16.3790078 351.019459 74 358.981881 74 358.981881 16.3790078 376 16.3790078 376 10"></polyline>
+            <polyline id="Fill-11" fill="#EC952D" points="430 12.7433348 423.356322 8 404.807528 40.7936368 387.368041 8.2053566 381 12.5369715 400.932387 46.6573729 400.932387 74 407.299076 74 407.299076 47.6599963 430 12.7433348"></polyline>
+            <polyline id="Fill-12" fill="#FFFFFE" points="55.2483636 34 14 82 45.9846804 82 72 34 55.2483636 34"></polyline>
+            <polyline id="Fill-13" fill="#FFFFFE" points="80.0945031 19 88 4.97939786 88 0 84.9848362 0 68 19 80.0945031 19"></polyline>
+        </g>
+    </g>
+</svg>

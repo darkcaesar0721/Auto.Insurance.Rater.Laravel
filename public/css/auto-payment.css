@@ -1,0 +1,55 @@
+.ribbon {
+    width: 110px;
+    height: 110px;
+    display: block;
+    position: absolute;
+    right: 0;
+    overflow: hidden;
+}
+.ribbon span {
+    width: 150px;
+    height: 34px;
+    top: 20px;
+    right: -40px;
+    position: absolute;
+    display: block;
+    font-family: arial;
+    font-size: 18px;
+    color:white;
+    text-align: center;
+    line-height: 34px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+}
+
+.ribbon.red span {
+    background: #FF0000;
+}
+
+.ribbon.green span {
+    background: #16b35b;
+}
+
+.h_iframe iframe {
+    width:100%;
+    height:100%;
+}
+.h_iframe {
+    /*height: 100%;*/
+    width:100%;
+}
+
+.custom-radio .custom-control-input:checked~.custom-control-label::before,
+.custom-radio .custom-control-input:checked~.custom-control-label::after {
+    background-color: green;  /* green */
+    border-radius: 50%;
+}
+
+.custom-radio .custom-control-input:focus ~ .custom-control-label::before {
+    box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(123, 255, 93, 0.25); /* pink, 25% opacity */
+}
+
+.custom-control-label {
+    font-size: 16px
+}

@@ -1,0 +1,30 @@
+/*
+Template Name: Simulor - Responsive Bootstrap 4 Admin Dashboard
+Version: 1.0.0
+Author: CoderThemes
+Email: support@coderthemes.com
+File: Custom Bootstrap file
+*/
+
+//Core files
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+
+//Components
+@import "components/accordions";
+@import "components/badge";
+@import "components/breadcrumb";
+@import "components/buttons";
+@import "components/card";
+@import "components/dropdown";
+@import "components/forms";
+@import "components/modal";
+@import "components/nav";
+@import "components/pagination";
+@import "components/popover";
+@import "components/progress";
+@import "components/reboot";
+@import "components/tables";
+@import "components/type";
